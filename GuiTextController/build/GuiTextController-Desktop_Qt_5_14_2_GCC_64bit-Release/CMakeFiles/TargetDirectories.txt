@@ -1,0 +1,4 @@
+/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/edit_cache.dir
+/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
+/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/SmartReferenceGUI.dir
+/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/SmartReferenceGUI_autogen.dir

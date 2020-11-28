@@ -1,0 +1,3 @@
+/home/bruening/projects/LeadersOfDigital/TextHandlerInterface/build/TextHandlerInterface-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
+/home/bruening/projects/LeadersOfDigital/TextHandlerInterface/build/TextHandlerInterface-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/edit_cache.dir
+/home/bruening/projects/LeadersOfDigital/TextHandlerInterface/build/TextHandlerInterface-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/SmartReference.dir

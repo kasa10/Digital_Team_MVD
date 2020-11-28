@@ -1,0 +1,12 @@
+# ninja log v5
+2	18960	1606569443254589990	CMakeFiles/SmartReference.dir/main.cpp.o	1d3a7452ec76cbb7
+1	1237	1606566194875506965	CMakeFiles/SmartReference.dir/ejdbcontroller.cpp.o	e5f3a0ef85bab8d1
+4	12207	1606569402761211744	CMakeFiles/SmartReference.dir/handlerengine.cpp.o	ca07d550cd5881df
+18960	19353	1606569443650603465	SmartReference	f7f1da8ad6201c98
+0	11	0	clean	95e798c170442e1c
+2	1756	1606570204628425084	CMakeFiles/SmartReference.dir/ejdbcontroller.cpp.o	e5f3a0ef85bab8d1
+4	16357	1606570219220919368	CMakeFiles/SmartReference.dir/handlerengine.cpp.o	ca07d550cd5881df
+2	21464	1606570224333092527	CMakeFiles/SmartReference.dir/main.cpp.o	1d3a7452ec76cbb7
+21464	22317	1606570225185121385	SmartReference	f7f1da8ad6201c98
+27	18698	1606586075759204314	CMakeFiles/SmartReference.dir/main.cpp.o	1d3a7452ec76cbb7
+18698	19661	1606586076723233735	SmartReference	f7f1da8ad6201c98

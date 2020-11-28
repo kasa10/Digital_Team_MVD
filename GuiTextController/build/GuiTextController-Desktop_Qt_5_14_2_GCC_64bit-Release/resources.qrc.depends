@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/iconfinder_Mac_Text_Edit_1215418.png</file>
+        <file>icons/iconfinder_34_61498.png</file>
+        <file>icons/logo.png</file>
+        <file>icons/lod.png</file>
+        <file>splash.jpg</file>
+    </qresource>
+</RCC>

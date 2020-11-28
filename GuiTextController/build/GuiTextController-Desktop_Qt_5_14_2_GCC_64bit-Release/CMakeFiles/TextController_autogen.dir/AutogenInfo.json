@@ -1,0 +1,224 @@
+{
+	"BUILD_DIR" : "/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/TextController_autogen",
+	"CMAKE_BINARY_DIR" : "/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/bruening/projects/LeadersOfDigital/GuiTextController",
+	"CMAKE_EXECUTABLE" : "/apps/qt/Tools/CMake/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/bruening/projects/LeadersOfDigital/GuiTextController/CMakeLists.txt",
+		"/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/3.18.3/CMakeSystem.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/3.18.3/CMakeCXXCompiler.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/Platform/UnixPaths.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXInformation.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/apps/qt/5.14.2/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake",
+		"/home/bruening/projects/LeadersOfDigital/GuiTextController/resources.qrc",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/FindThreads.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CheckLibraryExists.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CheckIncludeFileCXX.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CheckCXXSourceCompiles.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/FindZLIB.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/SelectLibraryConfigurations.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/bruening/projects/LeadersOfDigital/GuiTextController",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/ejdbcontroller.h",
+			"MU",
+			"EWIEGA46WW/moc_ejdbcontroller.cpp"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/forms/totallyeditordialog.h",
+			"MU",
+			"QM7UNKGVG2/moc_totallyeditordialog.cpp"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/forms/totallyeditoritem.h",
+			"MU",
+			"QM7UNKGVG2/moc_totallyeditoritem.cpp"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/handlerengine.h",
+			"MU",
+			"EWIEGA46WW/moc_handlerengine.cpp"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/machinelearnitem.h",
+			"MU",
+			"EWIEGA46WW/moc_machinelearnitem.cpp"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/nlohmann/json.hpp",
+			"MU",
+			"UK7WSB6VKJ/moc_json.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/TextController_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/TextController_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release",
+		"/home/bruening/projects/LeadersOfDigital/GuiTextController",
+		"/apps/ejdb/release/include",
+		"/apps/qt/5.14.2/gcc_64/include",
+		"/apps/qt/5.14.2/gcc_64/include/QtWidgets",
+		"/apps/qt/5.14.2/gcc_64/include/QtGui",
+		"/apps/qt/5.14.2/gcc_64/include/QtCore",
+		"/apps/qt/5.14.2/gcc_64/mkspecs/linux-g++",
+		"/usr/include",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++",
+		"-dM",
+		"-E",
+		"-c",
+		"/apps/qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/TextController_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 3,
+	"PARSE_CACHE_FILE" : "/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/TextController_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/apps/qt/5.14.2/gcc_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/apps/qt/5.14.2/gcc_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 14,
+	"SETTINGS_FILE" : "/home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/TextController_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/ejdbcontroller.cpp",
+			"MU"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/forms/totallyeditordialog.cpp",
+			"MU"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/forms/totallyeditoritem.cpp",
+			"MU"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/handlerengine.cpp",
+			"MU"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/machinelearnitem.cpp",
+			"MU"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/main.cpp",
+			"MU"
+		],
+		[
+			"/home/bruening/projects/LeadersOfDigital/GuiTextController/mainwindow.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

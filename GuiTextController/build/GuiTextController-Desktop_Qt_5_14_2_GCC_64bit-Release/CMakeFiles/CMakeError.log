@@ -1,0 +1,50 @@
+Performing C++ SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/apps/qt/Tools/Ninja/ninja cmTC_8ecc9 && [1/2] Building CXX object CMakeFiles/cmTC_8ecc9.dir/src.cxx.o
+[2/2] Linking CXX executable cmTC_8ecc9
+FAILED: cmTC_8ecc9 
+: && /usr/bin/g++ -DCMAKE_HAVE_LIBC_PTHREAD  CMakeFiles/cmTC_8ecc9.dir/src.cxx.o -o cmTC_8ecc9   && :
+/usr/bin/ld: CMakeFiles/cmTC_8ecc9.dir/src.cxx.o: в функции «main»:
+src.cxx:(.text+0x46): неопределённая ссылка на «pthread_create»
+/usr/bin/ld: src.cxx:(.text+0x52): неопределённая ссылка на «pthread_detach»
+/usr/bin/ld: src.cxx:(.text+0x5e): неопределённая ссылка на «pthread_cancel»
+/usr/bin/ld: src.cxx:(.text+0x6f): неопределённая ссылка на «pthread_join»
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <pthread.h>
+
+void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/bruening/projects/LeadersOfDigital/GuiTextController/build/GuiTextController-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/apps/qt/Tools/Ninja/ninja cmTC_b7d5f && [1/2] Building CXX object CMakeFiles/cmTC_b7d5f.dir/CheckFunctionExists.cxx.o
+[2/2] Linking CXX executable cmTC_b7d5f
+FAILED: cmTC_b7d5f 
+: && /usr/bin/g++ -DCHECK_FUNCTION_EXISTS=pthread_create  CMakeFiles/cmTC_b7d5f.dir/CheckFunctionExists.cxx.o -o cmTC_b7d5f  -lpthreads && :
+/usr/bin/ld: невозможно найти -lpthreads
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+
